@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url(images/top.jpg) ;
+   margin-top: 2%;
+   font-family:  'Chicle', cursive;
+ 
+}
+body{
+    background-image: url(images/train.jpg) ;
+}
+#add-train-btn{
+    background-image: url(images/top.jpg) ;
+
+}
